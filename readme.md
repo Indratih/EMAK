@@ -1,27 +1,13 @@
-## Laravel PHP Framework
+## Welcome to EMAK
+EMAK adalah portal yang mewadahi ide kreatif perempuan dalam membuat produk kerajinan yang akan menarik investor untuk berinvestasi/berdonasi terhadap
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+##What it does
+EMAK akan mewadahi kalangan kreatif maupun non kreatif perempuan yang membuat hasta karya dan menampilkannya di dalam EMAK baik dalam bahan yang diperlukan, alat, dan tahapan-tahapan di dalam membuat hasta karya atau disini kami menyebutnya proyek/project yang di unggah ke dalam EMAK. User yang disini sebagai watcher maupun donatur akan melihat hasta karya yang ditampilkan dan apabila user/donatur yang tertarik dapat mendonasikan sejumlah uang dengan jumlah tertentu yang telah disediakan dengan spesifikasi apabila mendonasi sekian akan menerima apa, dan seterusnya begiru juga terdapat donasi VIP yang nantinya dapat mengakuisi produk hasta karya yang dibuat dengan catatan investor akan mendanai seluruh produksi yang akan dilakukan dengan kesepakatan yang telah ditentukan.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
 ### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+>BASED ON
+> + The Laravel framework 5.0 [ is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT) ]
+> + CSS 3
+> + Bootstrap 3 Framework
+> + Free template Peter Finlan [ http://www.peterfinlan.com/ ]
