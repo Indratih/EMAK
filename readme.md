@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/agyto/EMAK/master/public/img/lgo.png)]
 ## Welcome to EMAK
 EMAK adalah portal yang mewadahi ide kreatif perempuan dalam membuat produk kerajinan yang akan menarik investor untuk berinvestasi/berdonasi terhadap
 
