@@ -79,7 +79,7 @@ if ( typeof define === 'function' && define.amd ) {
 
 })( window );
 
-$(document).ready( function() {
+$(window).resize(function() {
   if ( $(window).width() < 992) {
    $('.navbar-nav').addClass('navcenter');
    $('.navbar-header').addClass('brand-center');

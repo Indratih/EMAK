@@ -410,6 +410,9 @@ Waypoints
         padding: 10px 0;
         background-color: #F3F5F8;
         color: #08ACB7;
+        -webkit-transition: all .8s;
+        -moz-transition: all .8s;
+        transition: all .8s;
     }
 
 	.navbar-default.navbar-shrink .navbar-nav>li>a {
