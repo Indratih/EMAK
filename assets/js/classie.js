@@ -78,3 +78,13 @@ if ( typeof define === 'function' && define.amd ) {
 }
 
 })( window );
+
+$(document).ready( function() {
+  if ( $(window).width() < 992) {
+   $('.navbar-nav').addClass('navcenter');
+   $('.navbar-header').addClass('brand-center');
+  } else {
+   $('.navbar-nav').removeClass('navcenter');
+   $('.navbar-header').removeClass('brand-center');
+  }
+ });

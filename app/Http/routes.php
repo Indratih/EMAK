@@ -15,25 +15,7 @@ Route::get('/', function () {
     return View::make("welcome");
 });
  
-// Top menu
-Route::get('/about-emak', function () {
-    return view('top-about-emak');
-});
-
-Route::get('/proyek-emak', function () {
-    return view('top-proyek-emak');
-});
-
-Route::get('/visi-misi-emak', function () {
-    return view('top-visi-misi-emak');
-});
-
-Route::get('/kontak', function () {
-    return view('top-kontak-emak');
-});
-
-// sample page
- Route::get('/pita-hias', function () {
+Route::get('/pita-hias', function () {
     return view('pita-hias');
 });
 
