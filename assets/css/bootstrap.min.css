@@ -4059,7 +4059,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 	padding:15px;
 	font-size:18px;
 	line-height:20px;
-	height:50px
+	/*height:50px*/
 }
 
 .navbar-brand:hover,.navbar-brand:focus{

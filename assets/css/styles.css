@@ -195,7 +195,7 @@ h2 { font-size: 15px; color: #353535; text-transform: uppercase; font-weight: bo
 Navigation
 ========================================================================== */
 nav { background-color: #242830; margin-top: -1px; font-size: 17px; }
-nav ul { list-style: none; padding-top: 20px; }
+nav ul { list-style: none; /*padding-top: 20px;*/ }
 nav ul li { color: rgba(255, 255, 255, 0.6); display: block; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; padding-left: 0; position: relative; }
 nav ul li:last-child { border: none; }
 nav ul li a { color: rgba(255, 255, 255, 0.6); display: block; padding: 20px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; padding-left: 0; position: relative; }
@@ -380,21 +380,26 @@ Waypoints
   		margin-top: 17px;
 	}
 
+@media(min-width: 1280px){
+	nav ul { list-style: none; padding-top: 20px; }
+}
 @media(min-width:768px) {
+
     .navbar-default {
         padding: 25px 0;
         border: 0;
         background-color: transparent;
-        -webkit-transition: padding .3s;
-        -moz-transition: padding .3s;
-        transition: padding .3s;
+        -webkit-transition: padding .8s;
+        -moz-transition: padding .8s;
+        transition: padding .8s;
     }
 
     .navbar-default .navbar-brand {
+    	width: 70%;
         font-size: 2.8em;
-        -webkit-transition: all .3s;
-        -moz-transition: all .3s;
-        transition: all .3s;
+        -webkit-transition: all .8s;
+        -moz-transition: all .8s;
+        transition: all .8s;
     }
 
     .navbar-default .navbar-nav>.active>a {
@@ -405,6 +410,9 @@ Waypoints
         padding: 10px 0;
         background-color: #F3F5F8;
         color: #08ACB7;
+        -webkit-transition: all .8s;
+        -moz-transition: all .8s;
+        transition: all .8s;
     }
 
 	.navbar-default.navbar-shrink .navbar-nav>li>a {
@@ -500,4 +508,10 @@ Waypoints
 
 #comment-page {
 	margin-top: 25px;
+}
+.brand-center{
+	margin-left: 18em !important;
+}
+.navcenter{
+	margin-right: 2em !important; 
 }
