@@ -17,12 +17,7 @@
           <div class="container">
             <div class="row">
               <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                             quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                             consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                             cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                             proident, sunt in culpa qui officia deserunt mollit anim id est laborum.              
+               Proyek EMAK mencakup skala kecil sampai besar. Setiap proyek terdiri dari alat dan bahan pembuatan, langkah pembuatan, waktu yang dibutuhkan dalam pembuatan, serta tampilan gambar ataupun video. Proyek dari kreator atau pembuat hasil karya akan dibagikan kepada pengunjung. 
               </div>
             </div>
            </div>
