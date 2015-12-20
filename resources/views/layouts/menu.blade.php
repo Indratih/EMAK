@@ -9,7 +9,7 @@
               
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right ">
+                <ul class="nav navbar-nav navbar-right" style="margin-top: 25px;">
                   <li class="hidden"> <a href="#page-top"></a> </li>
                   <li> <a class="page-scroll" href="{{ Request::root() }}/about-emak">Apa itu EMAK?</a> </li>
                   <li> <a class="page-scroll" href="{{ Request::root() }}/proyek-emak">Proyek</a> </li>
