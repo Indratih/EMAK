@@ -169,7 +169,7 @@
                     <div class="icon">
                       <i class="fa fa-beer shadow"></i>
                     </div>
-                    <h2>Tanah Liat<br/><span class="kat-list">327 PROYEK</span></h2>
+                    <h2>Tanah Liat<br/><span class="kat-list">555 PROYEK</span></h2>
                   </div>
                    <div class="clearfix"></div>
                 </div>
